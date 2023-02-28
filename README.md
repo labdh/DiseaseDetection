@@ -1,5 +1,5 @@
 # DiseaseDetection
-Hey,Thank you for visiting this cool App.This App is built to Detect Disease from Plant leaf.Hope you would enjoy to use it.
+Hey, Thank you for visiting this cool App.This App is built to Detect Disease from Plant leaf.Hope you would enjoy to use it.<br />
 If you are new to this App.Firstly register yourself.<br />
 <img src="https://user-images.githubusercontent.com/73284462/221853321-f111921a-5a83-457a-8a34-2df0d72cbe49.jpg" width="250" height="500"><br /><br />
 Once registeration is done.Do login to this App.<br />
