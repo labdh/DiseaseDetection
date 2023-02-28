@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/banner_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/bg_top_menu.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/crop_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/search_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/social_btn.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/white_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/drawable/yellow_bg.xml" value="0.1975" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/activity_upload.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/appbar.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/home_scroll.xml" value="0.2125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/home_store.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/scroll_home.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/store.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/DiseaseDetection/app/src/main/res/layout/uploadbar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
